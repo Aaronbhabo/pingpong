@@ -18,3 +18,15 @@ h1{
   width: 100px;
   
 }
+
+.footer{
+    position: fixed;
+    color:red;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    line-height: 30px;
+    text-align: center;
+
+}
+  
